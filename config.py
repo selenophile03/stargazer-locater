@@ -1,8 +1,3 @@
-"""
-Geographic coordinate database mapped by country capitals/major cities.
-Format: 'Country Name': (Latitude, Longitude, 'Timezone string or UTC offset')
-"""
-
 COUNTRY_GEO_DB = {
     'India': {
         'city': 'New Delhi',
